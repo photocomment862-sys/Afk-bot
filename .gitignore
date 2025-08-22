@@ -1,2 +1,15 @@
+# Node.js klasörleri
 node_modules
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Ortam dosyaları
 .env
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Replit/Railway özel
+.replit
